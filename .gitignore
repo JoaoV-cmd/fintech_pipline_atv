@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# dados gerados por criar_dados.py e saídas do pipeline
+transacoes.csv
+cotacoes.csv
+output/
